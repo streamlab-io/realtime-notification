@@ -1,5 +1,5 @@
 # Realtime-notification
-How to build realtime notification system
+How to build realtime notification system video form <a href="https://www.youtube.com/playlist?list=PLYp_Kd32XvcokRXGpJZ3QobO-P08pWpzm">Video</a>
 
 
 ## Download the files 
